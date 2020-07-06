@@ -8,8 +8,8 @@
     ],
     "require": {
         "php": ">=5.6",
-        "guzzlehttp/guzzle": "~6.5",
-        "firebase/php-jwt": "~5.2",
+        "guzzlehttp/guzzle": "~6.3",
+        "firebase/php-jwt": "~5.1",
         "ext-json": "*",
         "ext-openssl": "*"
     },
